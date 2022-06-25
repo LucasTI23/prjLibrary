@@ -1,0 +1,10 @@
+E:\Livraria\API_Livraria\obj\Debug\API_Livraria.csprojResolveAssemblyReference.cache
+E:\Livraria\API_Livraria\bin\Debug\API_Livraria.dll
+E:\Livraria\API_Livraria\bin\Debug\API_Livraria.pdb
+E:\Livraria\API_Livraria\obj\Debug\API_Livraria.dll
+E:\Livraria\API_Livraria\obj\Debug\API_Livraria.pdb
+D:\Projetos\Livraria\Livraria\API_Livraria\bin\Debug\API_Livraria.dll
+D:\Projetos\Livraria\Livraria\API_Livraria\bin\Debug\API_Livraria.pdb
+D:\Projetos\Livraria\Livraria\API_Livraria\obj\Debug\API_Livraria.dll
+D:\Projetos\Livraria\Livraria\API_Livraria\obj\Debug\API_Livraria.pdb
+D:\Projetos\Livraria\Livraria\API_Livraria\obj\Debug\API_Livraria.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\Livraria\TDD_Livraria\bin\Debug\TDD_Livraria.exe.config
+E:\Livraria\TDD_Livraria\bin\Debug\TDD_Livraria.exe
+E:\Livraria\TDD_Livraria\bin\Debug\TDD_Livraria.pdb
+E:\Livraria\TDD_Livraria\bin\Debug\API_Livraria.dll
+E:\Livraria\TDD_Livraria\bin\Debug\API_Livraria.pdb
+E:\Livraria\TDD_Livraria\obj\Debug\TDD_Livraria.csprojResolveAssemblyReference.cache
+E:\Livraria\TDD_Livraria\obj\Debug\TDD_Livraria.exe
+E:\Livraria\TDD_Livraria\obj\Debug\TDD_Livraria.pdb
+D:\Projetos\Livraria\Livraria\TDD_Livraria\obj\Debug\TDD_Livraria.csprojResolveAssemblyReference.cache
+D:\Projetos\Livraria\Livraria\TDD_Livraria\bin\Debug\TDD_Livraria.exe.config
+D:\Projetos\Livraria\Livraria\TDD_Livraria\bin\Debug\TDD_Livraria.exe
+D:\Projetos\Livraria\Livraria\TDD_Livraria\bin\Debug\TDD_Livraria.pdb
+D:\Projetos\Livraria\Livraria\TDD_Livraria\bin\Debug\API_Livraria.dll
+D:\Projetos\Livraria\Livraria\TDD_Livraria\bin\Debug\API_Livraria.pdb
+D:\Projetos\Livraria\Livraria\TDD_Livraria\obj\Debug\TDD_Livraria.exe
+D:\Projetos\Livraria\Livraria\TDD_Livraria\obj\Debug\TDD_Livraria.pdb
